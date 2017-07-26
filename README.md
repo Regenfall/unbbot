@@ -1,15 +1,14 @@
 # Welcome to Unbelievable Bot
-<a href="https://discordapp.com/oauth2/authorize?permissions=268561414&scope=bot&client_id=292953664492929025" rel="some text">![Invite ðŸ• Unbelievable Bot ðŸ•](img/inviteBot.png)</a>
+<a href="https://discordapp.com/oauth2/authorize?permissions=268561414&scope=bot&client_id=292953664492929025" rel="some text">![Invite 🍕 Unbelievable Bot 🍕](img/inviteBot.png)</a>
 <a href="https://discord.gg/YMJ2dGp" rel="some text">![Join Server](img/joinServer.png)</a>
 
 
 ## So, what does this bot do?
-- Moderation (yep, like all other bots Â¯\\_(ãƒ„)_/Â¯ )
+- Moderation (yep, like all other bots *¯\(ツ)/¯*)
 - Money (each server has it's own economy)
 - Casino / Gambling Games
 - Earn money from chatting
-- Chatbot (don't abuse him otherwise he sleeps)
-- Tribes (don't do much atm, they're a bit like a gang)
+- Tribes (Raids!)
 - Other stuff that I've forgotten about
 
 ## How to Earn Money?
@@ -28,8 +27,8 @@
 
 
 # Commands
-All commands much be initiated with the prefix. By default this is `!`. You can also `@Mention` the bot.
-For example `!help` or `@ðŸ• Unbelievable Bot ðŸ•#1046 help`.
+All commands much be initiated with the prefix. By default this is `!`. You can also `@mention` the bot.
+For example `!help` or `🍕 Unbelievable Bot 🍕 help`.
 
 The syntax of the command usage is:  Optional parameter: `[]` Required parameter: `<>`. **DO NOT INCLUDE THESE WHEN TYPING THE COMMAND**
 
@@ -59,7 +58,6 @@ Setup unbelievable bot for your server, all settings are, by default, **disabled
 | `view-setup`              | Used view the current setup of the bot on your server                                                     | `view-setup`
 |                           | <br>                                                                                                      |
 | `enable-agree`            | Require new members to type `agree` in the welcome/guest channel **`Server Admin`**                       | `enable-agree <channel> [message]`
-| `enable-chatbot`          | Enable the channel to be used to chat with the bot **`Server Admin`**                                     | `enable-chatbot <channel>`
 | `enable-bot-commander`    | Set the role that will to use `Bot Commander` commands **`Server Admin`**                                 | `enable-bot-commander <role>`
 | `enable-log-channel`      | Set the channel to keep a history of mod moderation actions like `kick`, `ban`  **`Server Admin`**        | `enable-log-channel <channel>`
 | `enable-mod-role`         | Set the role that will to use `Mod Role` commands **`Server Admin`**                                      | `enable-mod-role <role>`
