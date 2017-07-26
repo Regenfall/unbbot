@@ -155,7 +155,7 @@ A tribe gives you your very own private text channel and role to chat with fello
 | `view-blacklist`  | View users on the blacklist (use argument `-g` for global blacklist)  | `view-blacklist [global argument]`
 | `view-case`       | View details on a case                                                | `view-case <case id>`
 | `profile`         | Displays your profile, or the profile of any user                     | `profile [user]`
-| `serverinfo`      | View statistics about your server.                                    | `serverinfo`
+| `server-info`      | View statistics about your server.                                    | `serverinfo`
 | `stats`           | Displays some statistics about unbelievable bot                       | `stats`
 | `punishments`     | View your, or another user's, punishments                             | `punishments [user]`
 
