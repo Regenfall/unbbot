@@ -55,6 +55,7 @@ Setup unbelievable bot for your server, all settings are, by default, **disabled
 | Command                   | Description                                                                                               | Usage                             |
 | ------------------------- | --------------------------------------------------------------------------------------------------------- | --------------------------------- |
 | `create-muted-role`       | Creates the muted role for use with the `mute` command **`Mod Role`**                                     | `create-muted-role`
+| `set-muted-role`          | Uses an already created muted role for the `mute` command **`Mod Role`**                                   | `set-muted-role <role>`
 | `view-setup`              | Used view the current setup of the bot on your server                                                     | `view-setup`
 |                           | <br>                                                                                                      |
 | `enable-agree`            | Require new members to type `agree` in the welcome/guest channel **`Server Admin`**                       | `enable-agree <channel> [message]`
