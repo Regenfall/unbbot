@@ -62,6 +62,7 @@ Setup unbelievable bot for your server, all settings are, by default, **disabled
 | `enable-log-channel`      | Set the channel to keep a history of mod moderation actions like `kick`, `ban`  **`Server Admin`**        | `enable-log-channel <channel>`
 | `enable-mod-role`         | Set the role that will to use `Mod Role` commands **`Server Admin`**                                      | `enable-mod-role <role>`
 | `enable-welcome`          | Add a welcome message to send when a new member joins **`Server Admin`**<br>Tags: `{user}` `{server}`     | `enable-welcome <channel> <message>`
+| `enable-leave-message`    | Add a leave message to send when a member leaves **`Server Admin`**<br>Tags: `{user}` `{server}`          | `enable-leave-message <channel> <message>`
 | `enable-whats-new`        | With this enabled, any announcements on new features will go straight to your server. **`Server Admin`**  | `enable-whats-new <channel>`
 |                           | <br>                                                                                                      |
 | `disable-agree`           | No longer require new members to type `agree` in the welcome/guest channel **`Server Admin`**             | `agree-disable`
@@ -70,6 +71,7 @@ Setup unbelievable bot for your server, all settings are, by default, **disabled
 | `disable-log-channel`     | Disables logging mod actions, this doesn't delete the actual channel **`Server Admin`**                   | `disable-log-channel`
 | `disable-mod-role`        | Disables `Mod Role` only commands being used by this role. **`Server Admin`**                             | `disable-mod-role`
 | `disable-welcome`         | Disables the welcome message for when a user joins **`Server Admin`**                                     | `disable-welcome`
+| `disable-leave-message`   | Disables the leave message for when a user leaves **`Server Admin`**                                      | `disable-leave-message`
 | `disable-whats-new`       | Disables announcements to the channel **`Server Admin`**                                                  | `disable-whats-new`
 
 
@@ -81,9 +83,9 @@ All things money related. Channels are **locked** by default.
 | --------------------- | ---------------------------------------------------------------------------------------------- | ----------------------------- |
 | `bank`                | Displays how much **The Bank** has and the current interest rate                               | `bank`
 | `money`               | Displays the money you, or another member, have earned                                         | `money [member]`
-| `slut`                | Whip it out to earn extra money ðŸ†   *(cool-down)*                                            | `slut`
+| `slut`                | Whip it out to earn extra money 🍆   *(cool-down)*                                            | `slut`
 | `work`                | Instead of whipping it out, you can work instead   *(cool-down)*                               | `work`
-| `crime`               | Commit a crime ðŸ‘€ This has a higher payout, but also higher risk of failing   *(cool-down)*  | `crime`
+| `crime`               | Commit a crime 👀 This has a higher payout, but also higher risk of failing   *(cool-down)*  | `crime`
 | `deposit`             | Deposit money to the bank                                                                      | `deposit <amount or -all>`
 | `withdraw`            | Withdraw your money from the bank                                                              | `withdraw <amount or -all>`
 | `leaderboard`         | Displays the richest in your server.                                                           | `leaderboard`
