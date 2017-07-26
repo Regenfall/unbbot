@@ -96,7 +96,7 @@ All things money related. Channels are **locked** by default.
 | `remove-money`        | Remove money from a member's cash **`Bot Commander`**                                          | `remove-money <member> <amount>`
 | `set-interest-rate`   | Set the interest rate of the bank (between 0 - 15) **`Bot Commander`**                         | `set-interest-rate <rate>`
 | `set-cooldown`        | Set the cooldown between using slut/work/crime commands **`Bot Commander`**                    | `set-cooldown <hours>`
-| `set-currency`        | Change the currency symbol to: Â£, $, â‚¬, Â¥, Â¢, â‚¹, or CHF **`Bot Commander`**                    | `set-currency <symbol>`
+| `set-currency`        | Change the currency symbol to any set of characters you want (e.g. `set-currency unbelievable bot` **`Bot Commander`**            | `set-currency <new currency>`
 | `lock`                | Disable money earning from chatting in a channel **`Bot Commander`**                           | `lock [channel]`
 | `lock-all`            | Disable money earning from chatting on all channels in the server **`Bot Commander`**          | `lock-all`
 | `unlock`              | Enable money earning from chatting in a channel **`Bot Commander`**                            | `unlock [channel]`
