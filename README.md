@@ -28,7 +28,7 @@
 
 # Commands
 All commands much be initiated with the prefix. By default this is `!`. You can also `@mention` the bot.
-For example `!help` or `🍕 Unbelievable Bot 🍕 help`.
+For example `!help` or `@🍕 unbelievable 🍕#9038  help`.
 
 The syntax of the command usage is:  Optional parameter: `[]` Required parameter: `<>`. **DO NOT INCLUDE THESE WHEN TYPING THE COMMAND**
 
